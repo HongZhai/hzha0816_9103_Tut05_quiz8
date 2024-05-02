@@ -9,6 +9,10 @@
 ![An image of Lazer Art](assets/Piet_Mondrian%20Broadway_Boogie_Woogie.jpeg)
 ###### and be able to control the direction of the light based on different audio or based on the direction of the mouse. By importing different audio content, the work can present completely different content, so that the melody and picture can be integrated into one.
 
+###### Here is the link to the artist Stephen Knapp's presonal website
+[Stephen Knapp](https://www.stephenknapp.com/photography)
+
+
 # Part 2: Coding Technique Exploration
 ###### The coding technique I found comes from one of the works of one of the YouTube creators - *The Coding Train, 2D Raycasting*. 
 ![An image of Lazer Art](assets/The%20Coding%20Train%201.png)
