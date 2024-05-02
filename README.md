@@ -16,7 +16,7 @@
 ###### He uses Ray.js, Boundary.js and Sketch.js in P5.js to complete ray casting engine with line segment *boundarys* and vector *ray*. In future works I can use Boundry.js to set different points to connect into line segments to simulate the effect of glass to limit the direction of light. Use Ray.js to set the origin of the light and the width of the line segment. And define boundary and ray in Sketch.js, and then set the direction of the light based on the position of the mouse.
 
 ###### Here are some links about this technique
-[Link Text](https://www.redblobgames.com/articles/visibility/)
+[Link 2d Visibility](https://www.redblobgames.com/articles/visibility/)
 [Link text](https://github.com/bmoren/p5.collide2D)
 [Link Text](https://youtu.be/TOEi6T2mtHo?si=u4sXpgwDp8qKwbei)
 [Link Text](https://youtu.be/Cp5WWtMoeKg?si=PiMtHImX30Szi6JL)
