@@ -17,6 +17,6 @@
 
 ###### Here are some links about this technique
 [2d Visibility](https://www.redblobgames.com/articles/visibility/)
-[Link text](https://github.com/bmoren/p5.collide2D)
-[Link Text](https://youtu.be/TOEi6T2mtHo?si=u4sXpgwDp8qKwbei)
-[Link Text](https://youtu.be/Cp5WWtMoeKg?si=PiMtHImX30Szi6JL)
+[p5.collide2D](https://github.com/bmoren/p5.collide2D)
+[The Coding Train - 2D Raycasting](https://youtu.be/TOEi6T2mtHo?si=u4sXpgwDp8qKwbei)
+[Sebastian Lague - Ray Marching](https://youtu.be/Cp5WWtMoeKg?si=PiMtHImX30Szi6JL)
