@@ -1,7 +1,9 @@
 ##### hzha0816_9103_Tut05_quiz8
 # Part 1: Imaging Technique Inspiration
 
-###### The artwork I chose is a light painting made by American artist Stephen Knapp. He shaped glass of different colors and shapes to reflect light into the space. He believed it was a symphony of color and light. I wanted to incorporate light refraction and different colors into my work on Piet Mondrian's "Broadway Boogie Woogie", and be able to control the direction of the light based on different audio or based on the direction of the mouse. By importing different audio content, the work can present completely different content, so that the melody and picture can be integrated into one.
+###### The artwork I chose is a light painting made by American artist *Stephen Knapp*.
+![An image of Lazer Art](assets/lazer%20art%2001.jpeg)
+###### He shaped glass of different **colors** and **shapes** to **reflect light** into the space. He believed it was a symphony of color and light. I wanted to incorporate light refraction and different colors into my work on *Piet Mondrian's "Broadway Boogie Woogie"*, and be able to control the direction of the light based on different audio or based on the direction of the mouse. By importing different audio content, the work can present completely different content, so that the melody and picture can be integrated into one.
 
 # Part 2: Coding Technique Exploration
 
